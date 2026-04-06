@@ -150,7 +150,7 @@ The project fulfills all functional requirements and follows industry-standard a
 ------------------------------------------------------------------
 
 ##Author
-Leelanagasai Prasanna Gudivada
+Suruthika Sadhasivam
 Programmer Analyst Trainee  
 Chennai, India  
 
