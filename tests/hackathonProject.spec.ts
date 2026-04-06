@@ -8,7 +8,7 @@ import { ScreenshotHelper } from '../utils/ScreenshotHelper';
 test.setTimeout(300_000); // 5 minutes for all scenarios
 
 test.describe('Hackathon Project - Complete Test Suite', () => {
-
+  
   let homePage: Home;
   let upcomingBikesPage: UpcomingBikesPage;
   let usedCarsPage: UsedCarsPage;
